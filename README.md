@@ -1,3 +1,3 @@
 # portfolio
  hello
-![alt tag](https://raw.githubusercontent.com/borstborstborst/portfolio/idiot.png)
+![alt tag](https://github.com/borstborstborst/portfolio/blob/master/images/idiot.png)
